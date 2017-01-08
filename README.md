@@ -1,7 +1,7 @@
 # Python
 This folder includes the python scripts.
 
-Right now there are 2 scripts.
+Right now there are 3 scripts.
 
 input_max_letter_count.py:
 Purpose: Giving the max counted letter in the string
